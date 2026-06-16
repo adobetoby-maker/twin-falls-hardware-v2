@@ -22,7 +22,7 @@ const faqSchema = {
       name: "Do you offer same-day special orders?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. In many cases we can get special-order items same day for customers in Twin Falls, Jerome, and Kimberly. Call us at (208) 555-0211.",
+        text: "Yes. In many cases we can get special-order items same day for customers in Twin Falls, Jerome, and Kimberly. Call us at (208) 733-1600.",
       },
     },
     {

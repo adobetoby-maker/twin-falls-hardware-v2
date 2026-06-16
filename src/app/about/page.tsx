@@ -162,12 +162,14 @@ export default function AboutPage() {
             {siteInfo.address} · {siteInfo.hours.map((h) => `${h.days} ${h.hours}`).join(" | ")}
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Link
-              href="/contact"
+            <a
+              href="https://maps.google.com/?q=2180+Addison+Ave+W+Twin+Falls+ID+83301"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-white text-(--color-brand) font-heading font-bold px-6 py-3 rounded hover:bg-gray-100 transition-colors"
             >
               Get Directions
-            </Link>
+            </a>
             <Link
               href="/products"
               className="border-2 border-white text-white font-heading font-bold px-6 py-3 rounded hover:bg-white/10 transition-colors"

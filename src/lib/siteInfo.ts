@@ -4,9 +4,9 @@ export const siteInfo = {
   city: "Twin Falls",
   state: "ID",
   zip: "83301",
-  phone: "(208) 555-0211",
-  phoneTel: "+12085550211",
-  email: "orders@twinfallshardware.com",
+  phone: "(208) 733-1600",
+  phoneTel: "+12087331600",
+  email: "info@twinfallshardware.com",
   infoEmail: "info@twinfallshardware.com",
   hours: [
     { days: "Mon–Sat", hours: "7AM–6PM" },

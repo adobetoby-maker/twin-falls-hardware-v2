@@ -5,7 +5,7 @@ import SpecialOrderForm from "./SpecialOrderForm";
 
 export const metadata: Metadata = buildMetadata(
   "Same-Day Special Orders",
-  "Same-day special orders for Twin Falls and Magic Valley contractors. If we don't have it, we'll source it fast. Submit a request online or call (208) 555-0211.",
+  "Same-day special orders for Twin Falls and Magic Valley contractors. If we don't have it, we'll source it fast. Submit a request online or call (208) 733-1600.",
   "/special-orders"
 );
 

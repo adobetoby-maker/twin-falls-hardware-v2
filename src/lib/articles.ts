@@ -40,7 +40,7 @@ Air infiltration drives up energy bills all summer long. A $4 tube of paintable 
 
 Test every GFCI outlet in your garage, bathrooms, and kitchen by pressing the Test button. Any that don't trip — or won't reset — need to be replaced. A new 15A GFCI outlet is $14 and takes 15 minutes to install.
 
-Stop by Twin Falls Hardware & Supply at 2180 Addison Ave W or call us at (208) 555-0211. We'll help you put together the exact materials list for your project.`,
+Stop by Twin Falls Hardware & Supply at 2180 Addison Ave W or call us at (208) 733-1600. We'll help you put together the exact materials list for your project.`,
   },
   {
     slug: "fix-leaky-faucet-twin-falls",
@@ -131,7 +131,7 @@ Come see us at 2180 Addison Ave W — we'll pull samples and help you estimate t
 
 ## We Pick Up the Phone
 
-Call us at (208) 555-0211 before you drive over. We'll check stock, pull the item, and have it at the counter when you arrive. No self-checkout mazes. No stock hunts.
+Call us at (208) 733-1600 before you drive over. We'll check stock, pull the item, and have it at the counter when you arrive. No self-checkout mazes. No stock hunts.
 
 ## Same-Day Special Orders
 
@@ -149,7 +149,7 @@ Gary and the team have a combined 60+ years in the hardware business. When you'r
 
 If you find the same item cheaper at a local competitor, we'll match it. Simple.
 
-Stop by 2180 Addison Ave W in Twin Falls, Mon–Sat 7AM–6PM, Sun 9AM–4PM, or call (208) 555-0211.`,
+Stop by 2180 Addison Ave W in Twin Falls, Mon–Sat 7AM–6PM, Sun 9AM–4PM, or call (208) 733-1600.`,
   },
 ];
 

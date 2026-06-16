@@ -5,7 +5,7 @@ import ContactForm from "./ContactForm";
 
 export const metadata: Metadata = buildMetadata(
   "Contact Us",
-  "Contact Twin Falls Hardware & Supply at (208) 555-0211 or visit us at 2180 Addison Ave W, Twin Falls, ID. Mon–Sat 7AM–6PM, Sun 9AM–4PM. We actually pick up.",
+  "Contact Twin Falls Hardware & Supply at (208) 733-1600 or visit us at 2180 Addison Ave W, Twin Falls, ID. Mon–Sat 7AM–6PM, Sun 9AM–4PM. We actually pick up.",
   "/contact"
 );
 
